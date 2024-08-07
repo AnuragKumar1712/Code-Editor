@@ -1,4 +1,4 @@
-### Code Editor Webpage
+## Code Editor Webpage
 
 **Description:**
 
@@ -37,5 +37,5 @@ The **Code Editor** webpage provides an interactive environment for users to wri
 - **Interactive Interface:** Users can switch between sections and see how changes in one section (e.g., HTML structure) affect the others (e.g., CSS styling or JavaScript behavior).
 - **User-Friendly Design:** The clean, dark-themed interface is designed to reduce eye strain and provide a comfortable coding environment.
 
-** Output: **
+**Output:**
 - With this Code Editor webpage, users can practice and improve their web development skills, experiment with different coding techniques, and instantly see the results of their efforts. The real-time output section provides an immediate visual representation of the code, facilitating a better understanding of web development concepts.
